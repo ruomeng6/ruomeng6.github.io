@@ -49,15 +49,25 @@ end
 *   [September in California](https://zine.la/article/26e4d3c04d184122ad442ee9ea66a181/)
 
 > Darauf sagte einer: Warum wehrt Ihr Euch Würdet Ihr den Gleichnissen folgen, dann wäret Ihr selbst Gleichnisse geworden und damit schon der täglichen Mühe frei.
+
 >Ein anderer sagte: Ich wette daß auch das ein Gleichnis ist.
+
 >Der erste sagte: Du hast gewonnen.
+
 >Der zweite sagte: Aber leider nur im Gleichnis.
+
 >Ein anderer sagte: Ich wette daß auch das ein Gleichnis ist.
+
 >Der erste sagte: Du hast gewonnen.
+
 >Der zweite sagte: Aber leider nur im Gleichnis.
+
 >Der erste sagte: Nein, in Wirklichkeit; im Gleichnis hast Du verloren.
+
 >Auf Balzacs Spazierstockgriff: Ich breche alle Hindernisse, auf meinem: mich brechen alle Hindernisse. Gemeinsam ist das "alle".
+
 >Kampf – Dirigierung des Kampfes – Hilfe am –
+
 >Geständnis, unbedingtes Geständnis, aufspringendes Tor, es erscheint im Innern des Hauses die Welt, deren trüber Abglanz bisher draußen lag.
 
 
