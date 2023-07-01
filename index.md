@@ -44,7 +44,7 @@ end
 #### More notes to know more💡
 
 *   [22-23 Spring Documents](https://zine.la/article/cae527652d58453ea26400db09f86216/)
-*   [Campus Media: Democracy and Resilliance](https://zine.la/article/a1db24c5b35c4e78b12191f83ea0a8bc/)
+*   [Campus Media: Democracy and spirit of revolt](https://zine.la/article/a1db24c5b35c4e78b12191f83ea0a8bc/)
 *   [Sycamore Street](https://zine.la/article/4d800e94844948fb94f40ce49cc2fe2e/)
 *   [September in California](https://zine.la/article/26e4d3c04d184122ad442ee9ea66a181/)
 
