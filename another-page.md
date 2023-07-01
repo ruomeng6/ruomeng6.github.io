@@ -2,8 +2,13 @@
 layout: default
 ---
 
-## Welcome to another page
+## Ruomeng Liu's CV
 
-_yay_
+_Updated: June.2023_
 
-[back](./)
+<object data="/assets/RUOMENG_LIU_CV.pdf" type="application/pdf" width="100%" height="600px">
+  <p>Unable to display PDF file. You can <a href="/assets/RUOMENG_LIU_CV.pdf">download it here</a>.</p>
+</object>
+
+
+[HomePage](./)

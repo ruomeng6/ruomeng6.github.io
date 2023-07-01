@@ -2,17 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be **Ruomeng**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Curriculum Vitae](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About Ruomeng
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+**Ruomeng Liu** is currently an undergraduate student at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) , advised by Professor [Fen Xiang](http://www.mediaresearch.cn/xws/bsxz/201101/t20110111_1967899.shtml) at Institue of Journalism and Communication, Chinese Academy of Social Sciences. I also studied at University of California, Davis as an exchange student. My research interests primarily revolve around political communication and digital journalism. I'm particularly interested in how audience is propagade and preference is shaped. Additionally, I often emphasize the significant role of culture in these processes.
+
+From a simple love for news to my practical experiences and academic reflections on media during my university years, I have always sought to connect intellectual inquiry with real-life encounters. During high school, I developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened my interest in print media. In college, I developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://en.wikipedia.org/wiki/Chai_Jing) and Li Haipeng are my favorite feature reporters.
 
 ## Header 2
 
