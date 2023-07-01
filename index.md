@@ -2,13 +2,9 @@
 layout: default
 ---
 
-Text can be **Ruomeng**, _italic_, or ~~strikethrough~~.
-
 [Curriculum Vitae](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com)
 
 # About Ruomeng
 
@@ -16,15 +12,21 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 From a simple love for news to my practical experiences and academic reflections on media during my university years, I have always sought to connect intellectual inquiry with real-life encounters. During high school, I developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened my interest in print media. In college, I developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://en.wikipedia.org/wiki/Chai_Jing) and Li Haipeng are my favorite feature reporters.
 
-## Header 2
+## Research
+Academically, I have been influenced by my undergraduate advisor, which led me to consciously explore the impact of theory and history on journalism research and communication sociology. In fact, I find myself caught between quantitative methodology and theoretical exploration. I am both fascinated by the pursuit of certainty, akin to econometrics, and believe that academia should not be completely detached from politics or personal perspectives. It is essential to maintain a focus on the humanistic spirit within theory and research, for example, _theory-oriented empirical research_.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Specifically in my academic pursuits, I am simultaneously interested in **political communication** in China and the societal impact of **emerging technologies**. I have delved into the microsociology behind the resurgence of **party media in China**(accepted by IAMCR) and am currently conducting research on **insult discourse toward China**. To collect and analyze data for my research, I employ various methods such as surveys, data mining, and natural language processing etc.
+In addition to my focus on political communication, I am also intrigued by mobile technology and the future development of media, as well as their societal implications. Currently, I am collaborating with colleagues on a research project exploring **media multitasking**.
 
-### Header 3
 
-```js
+
+### Methodology
+
+Methodologically, I lean towards quantitative approaches, including traditional inferential statistics, while also expanding my knowledge of popular machine learning algorithms. I primarily utilize R as my primary tool, with Python serving as a supplementary language.
+
+Before completing my undergraduate studies, I will have explored various professional domains, including data journalism, public relations, and news reporting. In the future, I may become a researcher, a journalist, or anything else. Regardless of the path I choose, my commitment remains steadfast—to delve deeper into my areas of interest and contribute to the understanding and practice of media and communication. I aspire to merge rigorous academic pursuits with a keen awareness of the social and human aspects of these fields.
+
+<!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
@@ -37,15 +39,29 @@ var fun = function lang(l) {
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
-```
+``` -->
 
-#### Header 4
+#### More notes to know more💡
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   [22-23 Spring Documents](https://zine.la/article/cae527652d58453ea26400db09f86216/)
+*   [Campus Media: Democracy and Resilliance](https://zine.la/article/a1db24c5b35c4e78b12191f83ea0a8bc/)
+*   [Sycamore Street](https://zine.la/article/4d800e94844948fb94f40ce49cc2fe2e/)
+*   [September in California](https://zine.la/article/26e4d3c04d184122ad442ee9ea66a181/)
 
-##### Header 5
+> Darauf sagte einer: Warum wehrt Ihr Euch Würdet Ihr den Gleichnissen folgen, dann wäret Ihr selbst Gleichnisse geworden und damit schon der täglichen Mühe frei.
+>Ein anderer sagte: Ich wette daß auch das ein Gleichnis ist.
+>Der erste sagte: Du hast gewonnen.
+>Der zweite sagte: Aber leider nur im Gleichnis.
+>Ein anderer sagte: Ich wette daß auch das ein Gleichnis ist.
+>Der erste sagte: Du hast gewonnen.
+>Der zweite sagte: Aber leider nur im Gleichnis.
+>Der erste sagte: Nein, in Wirklichkeit; im Gleichnis hast Du verloren.
+>Auf Balzacs Spazierstockgriff: Ich breche alle Hindernisse, auf meinem: mich brechen alle Hindernisse. Gemeinsam ist das "alle".
+>Kampf – Dirigierung des Kampfes – Hilfe am –
+>Geständnis, unbedingtes Geständnis, aufspringendes Tor, es erscheint im Innern des Hauses die Welt, deren trüber Abglanz bisher draußen lag.
+
+
+<!-- ##### Header 5
 
 1.  This is an ordered list following a header.
 2.  This is an ordered list following a header.
@@ -122,4 +138,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 
 ```
 The final element.
-```
+``` -->
