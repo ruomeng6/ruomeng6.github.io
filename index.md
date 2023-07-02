@@ -66,9 +66,7 @@ end
 
 >Auf Balzacs Spazierstockgriff: Ich breche alle Hindernisse, auf meinem: mich brechen alle Hindernisse. Gemeinsam ist das "alle".
 
->Kampf – Dirigierung des Kampfes – Hilfe am –
-
-je
+>Kampf – Dirigierung des Kampfes – Hilfe am – je
 >Geständnis, unbedingtes Geständnis, aufspringendes Tor, es erscheint im Innern des Hauses die Welt, deren trüber Abglanz bisher draußen lag.
 
 
