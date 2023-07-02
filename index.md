@@ -68,7 +68,8 @@ end
 
 >Kampf – Dirigierung des Kampfes – Hilfe am –
 
-je>Geständnis, unbedingtes Geständnis, aufspringendes Tor, es erscheint im Innern des Hauses die Welt, deren trüber Abglanz bisher draußen lag.
+je
+>Geständnis, unbedingtes Geständnis, aufspringendes Tor, es erscheint im Innern des Hauses die Welt, deren trüber Abglanz bisher draußen lag.
 
 
 <!-- ##### Header 5
