@@ -12,3 +12,4 @@ You can read my posts here, which probably are my academic notes, diary, monthly
 *   [Neon in HK](https://mp.weixin.qq.com/s/YgJv7W3xnERKFyM7un3vfQ)
 *   [Children on the Railway](https://mp.weixin.qq.com/s/HDe2M6pwG_Dx7J1zCJhC1Q)
 *   [Summer school: NYUSHANGHAI](https://zine.la/article/53d2404781e145f5adb93482502c9a32/)
+*   [浙江村阅读笔记](http://./readingnotes1.html)
