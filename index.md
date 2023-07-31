@@ -1,20 +1,24 @@
 ---
 layout: default
 ---
-# links
-## [Curriculum Vitae](./another-page.html).
 
-## [Linkedin](https://www.linkedin.com/in/ruomeng-liu-a7745524b/).
+
+# About Ruomeng
+
+## links
+### [Curriculum Vitae](./another-page.html).
+
+### [Linkedin](https://www.linkedin.com/in/ruomeng-liu-a7745524b/).
 
 For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com)
 
-# About Ruomeng
+### intro
 
 **Ruomeng Liu** is currently an undergraduate student at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) , advised by Professor [Fen Xiang](http://www.mediaresearch.cn/xws/bsxz/201101/t20110111_1967899.shtml) at Institue of Journalism and Communication, Chinese Academy of Social Sciences. I also studied at University of California, Davis as an exchange student. My research interests primarily revolve around _political communication_ and _digital journalism_. I'm particularly interested in how audience is propagade and preference is shaped. Additionally, I often emphasize the significant role of culture in these processes.
 
 From a simple love for news to my practical experiences and academic reflections on media during my university years, I have always sought to connect intellectual inquiry with real-life encounters. During high school, I developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened my interest in print media. In college, I developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://en.wikipedia.org/wiki/Chai_Jing) and Li Haipeng are my favorite feature reporters.
 
-## Research
+### Research
 Academically, I have been influenced by my undergraduate advisor, which led me to consciously explore the impact of theory and history on journalism research and communication sociology. In fact, I find myself caught between quantitative methodology and theoretical exploration. I am both fascinated by the pursuit of certainty, akin to econometrics, and believe that academia should not be completely detached from politics or personal perspectives. It is essential to maintain a focus on the humanistic spirit within theory and research, for example, _theory-oriented empirical research_.
 
 Specifically in my academic pursuits, I am simultaneously interested in **political communication** in China and the societal impact of **emerging technologies**. I have delved into the microsociology behind the resurgence of **party media in China**(accepted by IAMCR) and am currently conducting research on **insult discourse toward China**. To collect and analyze data for my research, I employ various methods such as surveys, data mining, and natural language processing etc.
@@ -43,9 +47,10 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ``` -->
 
-#### More notes to know more💡
+### More notes to know more💡
 
-##### [BLOG POSTS](./another-page2.html)
+#### [BLOG POSTS](./another-page2.html)
+
 
 > Darauf sagte einer: Warum wehrt Ihr Euch Würdet Ihr den Gleichnissen folgen, dann wäret Ihr selbst Gleichnisse geworden und damit schon der täglichen Mühe frei.
 
