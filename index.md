@@ -1,10 +1,10 @@
 ---
 layout: default
 ---
+# links
+## [Curriculum Vitae](./another-page.html).
 
-[Curriculum Vitae](./another-page.html).
-
-[Linkedin](https://www.linkedin.com/in/ruomeng-liu-a7745524b/).
+## [Linkedin](https://www.linkedin.com/in/ruomeng-liu-a7745524b/).
 
 For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com)
 
@@ -45,12 +45,7 @@ end
 
 #### More notes to know more💡
 
-*   [22-23 Spring Documents](https://zine.la/article/cae527652d58453ea26400db09f86216/)
-*   [Campus Media: Democracy and spirit of revolt](https://zine.la/article/a1db24c5b35c4e78b12191f83ea0a8bc/)
-*   [Sycamore Street](https://zine.la/article/4d800e94844948fb94f40ce49cc2fe2e/)
-*   [September in California](https://zine.la/article/26e4d3c04d184122ad442ee9ea66a181/)
-*   [Neon in HK](https://mp.weixin.qq.com/s/YgJv7W3xnERKFyM7un3vfQ)
-*   [Children on the Railway](https://mp.weixin.qq.com/s/HDe2M6pwG_Dx7J1zCJhC1Q)
+##### [BLOG POSTS](./another-page2.html)
 
 > Darauf sagte einer: Warum wehrt Ihr Euch Würdet Ihr den Gleichnissen folgen, dann wäret Ihr selbst Gleichnisse geworden und damit schon der täglichen Mühe frei.
 
