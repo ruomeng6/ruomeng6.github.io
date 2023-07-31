@@ -12,7 +12,7 @@ layout: default
 
 For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com)
 
-### intro
+### Intro
 
 **Ruomeng Liu** is currently an undergraduate student at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) , advised by Professor [Fen Xiang](http://www.mediaresearch.cn/xws/bsxz/201101/t20110111_1967899.shtml) at Institue of Journalism and Communication, Chinese Academy of Social Sciences. I also studied at University of California, Davis as an exchange student. My research interests primarily revolve around _political communication_ and _digital journalism_. I'm particularly interested in how audience is propagade and preference is shaped. Additionally, I often emphasize the significant role of culture in these processes.
 
