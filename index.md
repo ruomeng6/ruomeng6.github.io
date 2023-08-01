@@ -5,12 +5,12 @@ layout: default
 
 # About Ruomeng
 
-## links
+<!-- ## links
 ### [Curriculum Vitae](./another-page.html).
 
 ### [Linkedin](https://www.linkedin.com/in/ruomeng-liu-a7745524b/).
 
-For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com)
+For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mailto:lrrmmm0413@gmail.com) -->
 
 ### Intro
 
