@@ -50,7 +50,8 @@ end
 ### More notes to know more💡
 
 ### [BLOG POSTS](./another-page2.html)
-### [portfolio](./portfolio.html)
+### [Portfolio](./portfolio.html)
+### [Book Notes](./booknotes.html)
 
 > Darauf sagte einer: Warum wehrt Ihr Euch Würdet Ihr den Gleichnissen folgen, dann wäret Ihr selbst Gleichnisse geworden und damit schon der täglichen Mühe frei.
 
