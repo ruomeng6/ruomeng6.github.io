@@ -14,3 +14,4 @@ You can read my posts here, which probably are my academic notes, diary, monthly
 *   [Children on the Railway](https://mp.weixin.qq.com/s/HDe2M6pwG_Dx7J1zCJhC1Q)
 *   [Summer school: NYUSHANGHAI](https://zine.la/article/53d2404781e145f5adb93482502c9a32/)
 *   [浙江村阅读笔记](./readingnotes1.html)
+*   [Academic Journal Writing Tutorial](./writing%20your%20journal%20article%20in%2012%20weeks.html)
