@@ -6,7 +6,7 @@ author: Ruomeng
 # Portfolio
 
 ## Spring News Reports (was a well-operated campus media, from 1999 to 2023)
-* [岁末年初的他们都在忙着道歉 - 七日](https://mp.weixin.qq.com/s/hSYWvXIR5qOR9Effxywsdg) 
+* [岁末年初的他们都在忙着道歉 - 七日](https://mp.weixin.qq.com/s/hSYWvXIR5qOR9Effxywsdg) （作者）
 * [今天你晒单，我们来晒尾款人](https://mp.weixin.qq.com/s/9f6acR4POp5xkv6ho_BBpg) （记者）
 * [初雪沏开的五味或许并不陈杂 - 话聚社](https://mp.weixin.qq.com/s/4dxb3Qsat5gHLH-c-hR5Bg) （记者）
 * [一月已过，该立Flag了 - 话聚社](https://mp.weixin.qq.com/s/57NYLnVLMfeWtQlhaIlvJA) （记者）
