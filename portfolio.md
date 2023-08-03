@@ -43,6 +43,7 @@ author: Ruomeng
 * [入选国际顶会，但去不了？](https://mp.weixin.qq.com/s/berxlUNRHbOTGn-iMdByBA)
 * [格致计划课程计划](./projectnous.html)
 * [对话领读人 - 圆桌访谈 “一名格致领读人的自我修养：社会科学专场”](https://mp.weixin.qq.com/s/gjgRXQuEWTRbsgJqE0bSvg)
+* [访谈 -  苏春艳](./sucy.html)
 
 
 [Back to HomePage](./)
