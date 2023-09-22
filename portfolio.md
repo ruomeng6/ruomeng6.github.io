@@ -38,6 +38,7 @@ author: Ruomeng
 * [City walk的硬核玩法：解构香港赛博朋克美学](https://mp.weixin.qq.com/s/YgJv7W3xnERKFyM7un3vfQ)
 * [高铁带娃引反感，怎么就注定无解了？](https://mp.weixin.qq.com/s/J7VLKmHpOgxymtwPc0ItIA)
 * [高铁带娃引反感，注定无解？](https://mp.weixin.qq.com/s/HDe2M6pwG_Dx7J1zCJhC1Q)
+* [伤亡惨重的夏威夷毛伊岛大火，是怎么发生的？](https://mp.weixin.qq.com/s/Ak5-RU8VsDfNqZcZ6rmXtA)
 
 ## Post elsewhere
 * [入选国际顶会，但去不了？](https://mp.weixin.qq.com/s/berxlUNRHbOTGn-iMdByBA)
