@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Ruomeng Liu's CV
+## Ruomeng Liu's Curriculum Vitae
 
 _Updated: Sep.2023_
 
