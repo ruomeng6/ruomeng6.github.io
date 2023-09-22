@@ -53,7 +53,7 @@ end
 ### ["Portfolio"](./portfolio.html)
 <!-- ### ["Book Notes"](./booknotes.html) -->
 
-> Darauf sagte einer: Warum wehrt Ihr Euch Würdet Ihr den Gleichnissen folgen, dann wäret Ihr selbst Gleichnisse geworden und damit schon der täglichen Mühe frei.
+<!-- > Darauf sagte einer: Warum wehrt Ihr Euch Würdet Ihr den Gleichnissen folgen, dann wäret Ihr selbst Gleichnisse geworden und damit schon der täglichen Mühe frei.
 
 >Ein anderer sagte: Ich wette daß auch das ein Gleichnis ist.
 
@@ -72,7 +72,7 @@ end
 >Auf Balzacs Spazierstockgriff: Ich breche alle Hindernisse, auf meinem: mich brechen alle Hindernisse. Gemeinsam ist das "alle".
 
 >Kampf – Dirigierung des Kampfes – Hilfe am – je
->Geständnis, unbedingtes Geständnis, aufspringendes Tor, es erscheint im Innern des Hauses die Welt, deren trüber Abglanz bisher draußen lag.
+>Geständnis, unbedingtes Geständnis, aufspringendes Tor, es erscheint im Innern des Hauses die Welt, deren trüber Abglanz bisher draußen lag. -->
 
 
 <!-- ##### Header 5
