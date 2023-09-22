@@ -47,7 +47,7 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ``` -->
 
-### More notes to know more💡
+### Moreover💡
 
 <!-- ### ["BLOG POSTS"](./another-page2.html) -->
 ### ["Portfolio"](./portfolio.html)
