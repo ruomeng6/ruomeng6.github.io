@@ -55,7 +55,7 @@ author: Ruomeng
 
 ### paper
 
-* [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing)(course:)News Commentary）
+* [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing)（course:News Commentary）
 * [热搜中的知识框架——以俄乌冲突微博热搜为例](https://docs.google.com/document/d/1af3U6KBNraa7f56NTiUboxd4eBmFNwua/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Communication Research Method）
 * [从信任视角看浙江村研究](https://docs.google.com/document/d/15yMsLKLjs1m6HBQYijrLZ04F0r9tA_zl/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Academic Workshop）
 * [资本主义精神的对话](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Sociology Selected Classics Reading）
