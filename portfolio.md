@@ -34,7 +34,7 @@ author: Ruomeng
 * [项兵院长受邀出席第26届哈佛中国论坛，任欢迎式首位主旨嘉宾](https://mp.weixin.qq.com/s/PnZ0kA0hZalAgUJN_DVYYw)
 
 
-## thePaper.cn, data news
+## thePaper.cn, data news（[meishuke/839studio](https://projects.thepaper.cn/thepaper-cases/839studio/?lang=en)）
 * [City walk的硬核玩法：解构香港赛博朋克美学](https://mp.weixin.qq.com/s/YgJv7W3xnERKFyM7un3vfQ)
 * [高铁带娃引反感，怎么就注定无解了？](https://mp.weixin.qq.com/s/J7VLKmHpOgxymtwPc0ItIA)
 * [高铁带娃引反感，注定无解？](https://mp.weixin.qq.com/s/HDe2M6pwG_Dx7J1zCJhC1Q)
