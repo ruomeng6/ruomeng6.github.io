@@ -46,17 +46,18 @@ author: Ruomeng
 * [访谈 -  苏春艳](./sucy.html)
 
 ## coursework project
-* [尤卡斯电讯](https://drive.google.com/file/d/1LtgGQTA7hX7nS5UmlbgszY04yJxfbjTj/view?usp=sharing)
-* [尚娱SKYLIGHT](https://drive.google.com/file/d/1BPLdelDpi1AaxtAY38osSErYmKKOMeSE/view?usp=sharing)
-* [Cross-strait Culture Review](https://drive.google.com/file/d/1hzxfl18qs5LLBXCmSwoGEJHIN1l6vlxl/view?usp=sharing)
+* [尤卡斯电讯](https://drive.google.com/file/d/1LtgGQTA7hX7nS5UmlbgszY04yJxfbjTj/view?usp=sharing)（course: Intro to Journalism and Communication）
+* [尚娱SKYLIGHT](https://drive.google.com/file/d/1BPLdelDpi1AaxtAY38osSErYmKKOMeSE/view?usp=sharing)（course: News Editing）
+* [Cross-strait Culture Review](https://drive.google.com/file/d/1hzxfl18qs5LLBXCmSwoGEJHIN1l6vlxl/view?usp=sharing)（course: English News Editing）
+
 ### paper
-* [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing)
-* [热搜中的知识框架——以俄乌冲突微博热搜为例](https://docs.google.com/document/d/1af3U6KBNraa7f56NTiUboxd4eBmFNwua/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)
-* [从信任视角看浙江村研究](https://docs.google.com/document/d/15yMsLKLjs1m6HBQYijrLZ04F0r9tA_zl/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)
-* [资本主义精神的对话](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)
-* [媒介视角下的口述史作为方法](https://drive.google.com/file/d/1dndqL77vspiTx9uUlftdUGNRaJorEIzA/view?usp=sharing)
-* [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing)
-* [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)
 
-
+* [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing)(course:)News Commentary）
+* [热搜中的知识框架——以俄乌冲突微博热搜为例](https://docs.google.com/document/d/1af3U6KBNraa7f56NTiUboxd4eBmFNwua/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Communication Research Method）
+* [从信任视角看浙江村研究](https://docs.google.com/document/d/15yMsLKLjs1m6HBQYijrLZ04F0r9tA_zl/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Academic Workshop）
+* [资本主义精神的对话](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Sociology Selected Classics Reading）
+* [媒介视角下的口述史作为方法](https://drive.google.com/file/d/1dndqL77vspiTx9uUlftdUGNRaJorEIzA/view?usp=sharing)（course: Social Survey and Historical Research）
+* [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing)（course:Foreign Journalism and Communication History）
+* [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course:Intercultural Communication）
+* [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing)（course: Political Communication, UC DAVIS）
 [Back to HomePage](./)
