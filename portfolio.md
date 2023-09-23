@@ -63,4 +63,6 @@ _Here I put my selected news practive work and course work during the college_
 * [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing)（course:Foreign Journalism and Communication History）
 * [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course:Intercultural Communication）
 * [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing)（course: Political Communication, UC DAVIS）
+
+
 [Back to HomePage](./)
