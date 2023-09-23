@@ -40,7 +40,7 @@ Some scholars just put their teaching/research resources on their website~
 
 [精通机器学习：基于R](https://cread.jd.com/read/startRead.action?bookId=30418738&readType=1)
 
-[Git Book](https://git-scm.com/book/zh/v2)d
+[Git Book](https://git-scm.com/book/zh/v2)
 
 [计算传播学豆列 by wangchengjun](https://www.douban.com/doulist/36499472/?dt_dapp=1&dt_platform=com.douban.activity.wechat_friends)
 
