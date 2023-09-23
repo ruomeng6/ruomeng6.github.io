@@ -65,7 +65,9 @@ https://drmaggiezhang.com/ -->
 <!-- https://www.comm.ucsb.edu/people/ren%C3%A9-weber -->
 
 [media neurioscience](https://www.medianeuroscience.org/)
+
 [计算社会科学暑期机构](https://sicss.io/)
+
 [南京大学计算传播学实验中心](https://computational-communication.com/)
 
 
