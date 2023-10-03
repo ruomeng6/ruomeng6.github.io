@@ -46,7 +46,7 @@ Some scholars just put their teaching/research resources on their website~
 
 [text-as-data网站](https://joeornstein.github.io/text-as-data/)
 
-## institue
+## institue and journals
 
 [传播和新兴媒体实验室，founded by yini zhang(buffalo)](https://cemlab.github.io/index.html)
 
@@ -69,6 +69,8 @@ https://drmaggiezhang.com/ -->
 [计算社会科学暑期机构](https://sicss.io/)
 
 [南京大学计算传播学实验中心](https://computational-communication.com/)
+
+[Journal of Computational Social Sciences](https://www.springer.com/journal/42001/)
 
 
 ## 管理tools
