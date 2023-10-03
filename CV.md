@@ -1,10 +1,10 @@
 ---
-
+layout: default
 ---
 
-## Ruomeng Liu's Curriculum Vitae
+## Ruomeng's Curriculum Vitae
 
-_Updated: Sep.2023_
+_Updated: Oct.2023_
 
 <object id="pdfViewer" data="/assets/RUOMENG_LIU__CV.pdf" type="application/pdf" width="100%">
   <p>Unable to display PDF file. You can <a href="/assets/RUOMENG_LIU__CV.pdf">download it here</a>.</p>
