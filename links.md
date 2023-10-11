@@ -46,6 +46,8 @@ Some scholars just put their teaching/research resources on their website~
 
 [text-as-data网站](https://joeornstein.github.io/text-as-data/)
 
+[quantecon datascience](https://datascience.quantecon.org/)
+
 ## institue and journals
 
 [传播和新兴媒体实验室，founded by yini zhang(buffalo)](https://cemlab.github.io/index.html)
