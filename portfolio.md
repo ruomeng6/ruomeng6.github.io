@@ -45,6 +45,8 @@ _Here I put my selected news practive work and course work during the college_
 * [格致计划课程计划](./projectnous.html)
 * [对话领读人 - 圆桌访谈 “一名格致领读人的自我修养：社会科学专场”](https://mp.weixin.qq.com/s/gjgRXQuEWTRbsgJqE0bSvg)
 * [访谈 -  苏春艳](./sucy.html)
+* [数据可视化习作-timeline](./assets/img/visualization_timeline.jpg)
+* [数据可视化习作-linechart](./assets/img/%20visualization_linechart.pic.jpg)
 
 ## coursework project
 
