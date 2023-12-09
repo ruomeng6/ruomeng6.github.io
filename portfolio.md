@@ -66,8 +66,7 @@ _Here I put my selected news practice work and course work during the college_
 * [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course:Intercultural Communication）
 * [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing)（course: Political Communication, UC DAVIS）
 * [关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型](/assets/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf)
-
-* [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_party%20media.pdf)
+* [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_preference.pdf)
 
 ## conference presentation
 
