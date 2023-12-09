@@ -4,7 +4,7 @@ author: Ruomeng
 ---
 
 # Portfolio
-_Here I put my selected news practive work and course work during the college_
+_Here I put my selected news practice work and course work during the college_
 ## Spring News Reports (was a well-operated campus media, from 1999 to 2023)
 
 
