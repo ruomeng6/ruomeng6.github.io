@@ -71,6 +71,7 @@ _Here I put my selected news practice work and course work during the college_
 ## conference presentation
 
 * [Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
+* [Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
 
 
 
