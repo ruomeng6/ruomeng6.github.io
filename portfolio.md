@@ -57,21 +57,23 @@ _Here I put my selected news practice work and course work during the college_
 
 ### paper
 
-* [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing)（course:News Commentary）
-* [热搜中的知识框架——以俄乌冲突微博热搜为例](https://docs.google.com/document/d/1af3U6KBNraa7f56NTiUboxd4eBmFNwua/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Communication Research Method）
-* [从信任视角看浙江村研究](https://docs.google.com/document/d/15yMsLKLjs1m6HBQYijrLZ04F0r9tA_zl/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Academic Workshop）
-* [资本主义精神的对话](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course: Sociology Selected Classics Reading）
-* [媒介视角下的口述史作为方法](https://drive.google.com/file/d/1dndqL77vspiTx9uUlftdUGNRaJorEIzA/view?usp=sharing)（course: Social Survey and Historical Research）
-* [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing)（course:Foreign Journalism and Communication History）
-* [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true)（course:Intercultural Communication）
-* [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing)（course: Political Communication, UC DAVIS）
-* [关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型](/assets/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf)
+* [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing) *In Chinese*（course:News Commentary, Title:An analysis of review preferences on Xiake Island from the perspective of trust）
+* [热搜中的知识框架——以俄乌冲突微博热搜为例](https://docs.google.com/document/d/1af3U6KBNraa7f56NTiUboxd4eBmFNwua/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese*（course: Communication Research Method, Title:Knowledge framing in hot searches: Weibo hot searches on the Russia-Ukraine conflict as an example）
+* [从信任视角看浙江村研究](https://docs.google.com/document/d/15yMsLKLjs1m6HBQYijrLZ04F0r9tA_zl/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) （course: Academic Workshop, Title:Reviews on Zhejiangcun Research From the Perspective of Trust）
+* [资本主义精神的对话](https://docs.google.com/document/d/16ImRaxHzLpppsaTeI_KVKWf5aDmJ0-_y/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* （course: Sociology Selected Classics Reading, Title:Dialogue on the Spirit of Capitalism）
+* [媒介视角下的口述史作为方法](https://drive.google.com/file/d/1dndqL77vspiTx9uUlftdUGNRaJorEIzA/view?usp=sharing) *In Chinese* （course: Social Survey and Historical Research, Title: Oral History as Method From a Media Perspective）
+* [COP24 中《纽约时报》气候变化议题报道框架分析](https://drive.google.com/file/d/1hdecKLye0d11PnHDRT9kK1U36q44tY_E/view?usp=sharing) *In Chinese*（course:Foreign Journalism and Communication History, Title: Analysis of the New York Times' Reporting Framework on Climate Change at COP24）
+* [侠义道和骑士精神：《将夜》的跨文化解读](https://docs.google.com/document/d/1w2iD-hFG_f5Isrh11dWZVspwMBsCjJyL/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese* （course:Intercultural Communication, Title:Chivalry and Knightship: A Cross-Cultural Interpretation of "Ever Night" ）
+* [Relational Trust and Affective Perception: an empirical study of party media preferences](https://drive.google.com/file/d/1q2DsUcLvNPgPR_DPdQT1pExIaAxFds0B/view?usp=sharing)（course: Political Communication）
+
+
+* [关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型](/assets/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf) *In Chinese* 
 * [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_preference.pdf)
 
 ## conference presentation
 
-* [Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
-* [Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
+* [ICA postconference(2023 media sociology):Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
+* [MSC 2023:Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
 
 
 

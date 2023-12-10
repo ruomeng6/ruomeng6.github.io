@@ -4,10 +4,10 @@ layout: default
 
 ## Ruomeng's Curriculum Vitae
 
-_Updated: Oct.2023_
+_Updated: Dec.2023_
 
-<object id="pdfViewer" data="/assets/RUOMENG_LIU__CV.pdf" type="application/pdf" width="100%">
-  <p>Unable to display PDF file. You can <a href="/assets/RUOMENG_LIU__CV.pdf">download it here</a>.</p>
+<object id="pdfViewer" data="/assets/CV_Liu_Dec2023.pdf" type="application/pdf" width="100%">
+  <p>Unable to display PDF file. You can <a href="/assets/CV_Liu_Dec2023.pdf">download it here</a>.</p>
 </object>
 
 <script>
