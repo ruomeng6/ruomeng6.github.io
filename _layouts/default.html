@@ -5,6 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X4453YNQVP"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'YOUR_TRACKING_ID');
+</script>
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -21,7 +30,8 @@
         <img src="{{site.logo | relative_url}}" alt="Logo" style="width: 140px; height: auto;" />
       {% endif %}
       
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <p style="font-size: 12px;">{{ site.description | default: site.github.project_tagline }}</p>
+
 
         {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
@@ -42,7 +52,7 @@
 
         <p> <a href="https://twitter.com/LAIWktw7ziTtG2v">X(Twitter)</a></p>
 
-        <p> CONTACT: <a href = "mailto:liuruomeng@ucass.edu.cn">liuruomeng [at] ucass [dot] edu [dot] cn</a></p>
+        <p> <a href = "mailto:liuruomeng@ucass.edu.cn">CONTACT</a> liuruomeng [at] ucass [dot] edu [dot] cn</p> 
 
         {% if site.show_downloads %}
         <ul class="downloads">

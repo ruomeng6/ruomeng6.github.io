@@ -16,7 +16,7 @@ For any possible cooperation or help, contact me at [lrrrmmm0413@gmail.com](mai
 
 **Ruomeng Liu** is currently an undergraduate student at [University of Chinese Academy of Social Sciences](https://www.ucass.edu.cn/en/index.htm) , advised by Professor [Fen Xiang](http://www.mediaresearch.cn/xwx/sdtj/201510/t20151010_2489106.shtml) at Institue of Journalism and Communication, Chinese Academy of Social Sciences. I also studied at [University of California, Davis](https://communication.ucdavis.edu/) as an exchange student. My research interests primarily revolve around _political communication_ and _digital journalism_. I'm particularly interested in how audience is propagade and preference is shaped. Additionally, I often emphasize the significant role of culture in these processes.
 
-From a simple love for news to my practical experiences and academic reflections on media during my university years, I have always sought to connect intellectual inquiry with real-life encounters. During high school, I developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened my interest in print media. In college, I developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://en.wikipedia.org/wiki/Chai_Jing) and Li Haipeng are my favorite feature reporters.
+From a simple love for news to my practical experiences and academic reflections on media during my university years, I have always sought to connect intellectual inquiry with real-life encounters. During high school, I developed a fondness for reading magazines like [Vista](http://www.vistastory.com/#/about?columnType=1) and [Lifeweek](https://www.lifeweek.com.cn/), which deepened my interest in print media. At my early time, I developed a passion for non-fiction and long investigative reports. Chinese journalists [Chai Jing](https://en.wikipedia.org/wiki/Chai_Jing) and Li Haipeng were my favorite feature reporters.
 
 ### Research
 Academically, I have been influenced by my undergraduate advisor, which led me to consciously explore the impact of theory and history on journalism research and communication sociology. In fact, I find myself caught between quantitative methodology and theoretical exploration. I am both fascinated by the pursuit of certainty, akin to econometrics, and believe that academia should not be completely detached from politics or personal perspectives. It is essential to maintain a focus on the humanistic spirit within theory and research, for example, _theory-oriented empirical research_.
@@ -33,6 +33,12 @@ Methodologically, I lean towards quantitative approaches, including traditional 
 I have a strong passion for computational social sciences, an exciting and rapidly-evolving interdisciplinary field. My learning journey includes text-as-data, image-as-data, video/audio-as-data and multimedia analysis, as well as computing knowledge about deep learning and large laguage modeling.
 
 Before completing my undergraduate studies, I will have explored various professional domains, including data journalism, public relations, and news reporting. In the future, I may become a researcher, a journalist, or anything else. Regardless of the path I choose, my commitment remains steadfast—to delve deeper into my areas of interest and contribute to the understanding and practice of media and communication. I aspire to merge rigorous academic pursuits with a keen awareness of the social and human aspects of these fields.
+
+### Areas of Interest with Potential for Further Development
+
+- Social Cognitive Neuroscience (with its application in communication studies)
+- Decision Science (Behavioral Economics, Cognitive Psychology, Neuroeconomics)
+- Computational Social Science Methods and Causal Inference
 
 <!-- ```js
 // Javascript code with syntax highlighting.
