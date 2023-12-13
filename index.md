@@ -40,6 +40,13 @@ Before completing my undergraduate studies, I will have explored various profess
 - Decision Science (Behavioral Economics, Cognitive Psychology, Neuroeconomics)
 - Computational Social Science Methods and Causal Inference
 
+### Hobbies
+
+-  Reading (Philosophy, Theories, Novels), Movies
+-  Hiking
+-  Cooking
+-  Painting
+
 <!-- ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
