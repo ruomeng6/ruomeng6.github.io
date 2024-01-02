@@ -4,12 +4,12 @@ layout: default
 
 ## Ruomeng's Curriculum Vitae  
 
-[Download](/assets/CV_Liu_Dec.pdf)
+[Download](/assets/CV_Liu_Dec2023.pdf)
 
 _Updated: Dec.2023_
 
-<object id="pdfViewer" data="/assets/CV_Liu_Dec.pdf" type="application/pdf" width="100%">
-  <p>Unable to display PDF file. You can <a href="/assets/CV_Liu_Dec.pdf">download it here</a>.</p>
+<object id="pdfViewer" data="/assets/CV_Liu_Dec2023.pdf" type="application/pdf" width="100%">
+  <p>Unable to display PDF file. You can <a href="/assets/CV_Liu_Dec2023.pdf">download it here</a>.</p>
 </object>
 
 <script>
