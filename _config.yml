@@ -2,6 +2,10 @@ title: Ruomeng Liu
 logo: /assets/img/logo.png
 description:  Political Communication, Media Cognition, Computational Social Science
 
+kramdown:
+  input: GFM
+  auto_ids: true
+  toc_levels: 1..6
 
 show_downloads: False
 google_analytics:

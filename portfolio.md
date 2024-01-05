@@ -5,7 +5,14 @@ author: Ruomeng
 
 # Portfolio
 _Here I put my selected news practice work and course work during the college_
-## Spring News Reports (was a well-operated campus media, from 1999 to 2023)
+
+## Shortcuts
+- [campus media](#campus media)
+- [public relation](#public relation)
+- [data infographic news](#data infographic news)
+
+
+## Spring News Reports (was a well-operated campus media, from 1999 to 2023){#campus media}
 
 
 * [今天你晒单，我们来晒尾款人](https://mp.weixin.qq.com/s/9f6acR4POp5xkv6ho_BBpg) （记者）
@@ -24,7 +31,7 @@ _Here I put my selected news practice work and course work during the college_
 * [“永不消逝”的噪声：明辨楼电钻何时休？](https://mp.weixin.qq.com/s/Fa7TqTdXLncwhUoC5Dk0fg)（记者、编辑）
 
 
-## CKGSB WeChat Official Content
+## CKGSB WeChat Official Content{#public relation}
 * [以远见超越未见 - 最受长江读者欢迎的20本书](https://mp.weixin.qq.com/s/WvFHzQUE1NioLkxsnvzyGw)
 * [真正的高手，都有结构性思维 - 长江读书400期](https://mp.weixin.qq.com/s/nUFmI0doQ-mrfVvJ9yny_Q)
 * [北大长江携手，第十届“儒商论域” 全议程发布！](https://mp.weixin.qq.com/s/2fvTeS0dmuIBRybj8r3gjA)
@@ -34,28 +41,30 @@ _Here I put my selected news practice work and course work during the college_
 * [项兵院长受邀出席第26届哈佛中国论坛，任欢迎式首位主旨嘉宾](https://mp.weixin.qq.com/s/PnZ0kA0hZalAgUJN_DVYYw)
 
 
-## thePaper.cn, data news（[meishuke/839studio](https://projects.thepaper.cn/thepaper-cases/839studio/?lang=en)）
+## thePaper.cn, data news（[meishuke/839studio](https://projects.thepaper.cn/thepaper-cases/839studio/?lang=en)）{#data infographic news}
 * [City walk的硬核玩法：解构香港赛博朋克美学](https://mp.weixin.qq.com/s/YgJv7W3xnERKFyM7un3vfQ)
 * [高铁带娃引反感，怎么就注定无解了？](https://mp.weixin.qq.com/s/J7VLKmHpOgxymtwPc0ItIA)
 * [高铁带娃引反感，注定无解？](https://mp.weixin.qq.com/s/HDe2M6pwG_Dx7J1zCJhC1Q)
 * [伤亡惨重的夏威夷毛伊岛大火，是怎么发生的？](https://mp.weixin.qq.com/s/Ak5-RU8VsDfNqZcZ6rmXtA)
 
-## Post elsewhere
+* [数据可视化习作-timeline](./assets/img/visualization_timeline.jpg)
+* [数据可视化习作-linechart](./assets/img/%20visualization_linechart.pic.jpg)
+
+## Post elsewhere{#post}
 * [入选国际顶会，但去不了？](https://mp.weixin.qq.com/s/berxlUNRHbOTGn-iMdByBA)
 * [格致计划课程计划](./projectnous.html)
 * [对话领读人 - 圆桌访谈 “一名格致领读人的自我修养：社会科学专场”](https://mp.weixin.qq.com/s/gjgRXQuEWTRbsgJqE0bSvg)
 * [访谈 -  苏春艳](./sucy.html)
-* [数据可视化习作-timeline](./assets/img/visualization_timeline.jpg)
-* [数据可视化习作-linechart](./assets/img/%20visualization_linechart.pic.jpg)
+
 
 ## coursework project
 
-### works
+### works{#journalism practice}
 * [尤卡斯电讯](https://drive.google.com/file/d/1LtgGQTA7hX7nS5UmlbgszY04yJxfbjTj/view?usp=sharing)（course: Intro to Journalism and Communication）
 * [尚娱SKYLIGHT](https://drive.google.com/file/d/1BPLdelDpi1AaxtAY38osSErYmKKOMeSE/view?usp=sharing)（course: News Editing）
 * [Cross-strait Culture Review](https://drive.google.com/file/d/1hzxfl18qs5LLBXCmSwoGEJHIN1l6vlxl/view?usp=sharing)（course: English News Editing）
 
-### paper
+### paper{#academic course project}
 
 * [信任视角下侠客岛评论偏好探析](https://drive.google.com/file/d/1RoXmweJ4Fql7C3P92iMytmNTsAsl3my8/view?usp=sharing) *In Chinese*（course:News Commentary, Title:An analysis of review preferences on Xiake Island from the perspective of trust）
 * [热搜中的知识框架——以俄乌冲突微博热搜为例](https://docs.google.com/document/d/1af3U6KBNraa7f56NTiUboxd4eBmFNwua/edit?usp=sharing&ouid=107772567509688431609&rtpof=true&sd=true) *In Chinese*（course: Communication Research Method, Title:Knowledge framing in hot searches: Weibo hot searches on the Russia-Ukraine conflict as an example）
@@ -70,7 +79,7 @@ _Here I put my selected news practice work and course work during the college_
 * [关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型](/assets/关系信任如何影响党媒的偏好性使用：基于情感感知的中介效应模型.pdf) *In Chinese* 
 * [Examining the Impact of Relational Trust on Preferential Use of Party Media: Based on a Mediating Effect Model of Affective Perception](/assets/Full%20Paper_preference.pdf),[appendix-figure](/assets/appendix_party%20media%20preference.pdf)
 
-## conference presentation
+## conference presentation{#conference presentation}
 
 * [ICA postconference(2023 media sociology):Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
 * [MSC 2023:Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
