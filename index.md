@@ -25,7 +25,7 @@ Specifically in my academic pursuits, I am simultaneously interested in **politi
 
 In addition to my focus on political communication, I am also intrigued by mobile technology and the future development of media, as well as their societal implications. Currently, I am collaborating with colleagues on a research project exploring **media multitasking**(extended abstract accepted by [MSC2023](https://www.msi.wiki/mobile-studies-congress-2023)).
 
-#### [_thesis proposal: Whose Voice in the COVID-19 Pandemic Discussion: a network actor analysis based on Weibo-COV corpus_](./thesis_proposal.html)
+#### [_thesis proposal: Whose Voice in the COVID-19 Pandemic Discussion: a network actor analysis based on Weibo-COV corpus_](./assets/Thesis%20Proposal.pdf)
 
 ### Methodology
 
