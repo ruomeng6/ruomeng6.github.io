@@ -58,7 +58,9 @@ Some scholars just put their teaching/research resources on their website~
 
 ## Institue and Journals
 
-[he Communication and Emerging Media (CEM[kem]) Lab](https://cemlab.github.io/index.html)
+[The Communication and Emerging Media (CEM[kem]) Lab](https://cemlab.github.io/index.html)
+
+[Stanford Culture and Emotion Lab](https://culture-emotion-lab.stanford.edu/)
 
 <!-- 传播神经科学家
 https://fhopp.github.io
