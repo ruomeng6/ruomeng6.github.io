@@ -8,7 +8,7 @@ _Here I put my selected news practice work and course work during the college_
 
 I originally came to journalism school for journalism practice, and during my early years in college I became passionate about interviewing and writing, while exploring the possibilities of nonfiction writing. Therefore, I participated in the new media team of a campus media. In the later days of my sophomore year, I started to be curious about communication studies and found that academia was a way to help me understand the confusion in the world and society. I took courses broadly and enjoyed interdisciplinary knowledge in history, sociology, philosophy, journalism, communication and computing.
 
-#### Shortcuts
+### Shortcuts
 
 
 
