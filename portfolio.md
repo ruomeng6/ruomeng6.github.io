@@ -6,10 +6,10 @@ author: Ruomeng
 # Portfolio
 _Here I put my selected news practice work and course work during the college_
 
-## Shortcuts
+<!-- ## Shortcuts
 - [campus media](#campus media)
 - [public relation](#public relation)
-- [data infographic news](#data infographic news)
+- [data infographic news](#data infographic news) -->
 
 
 ## Spring News Reports (was a well-operated campus media, from 1999 to 2023){#campus media}
