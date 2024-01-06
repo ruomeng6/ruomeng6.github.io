@@ -2,12 +2,8 @@
 layout: default
 title: useful links
 ---
-
+# Resources
 _Have collected some resources I came across and put it here for convenience_
-
-
-
-## Scholars and Resources
 Some scholars just put their teaching/research resources on their website~
 
 
