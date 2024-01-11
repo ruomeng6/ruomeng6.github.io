@@ -1,6 +1,6 @@
 ---
 layout: default
-title: useful links
+title: Resources
 ---
 # Resources
 _Have collected some resources I came across and put it here for convenience_
