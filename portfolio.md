@@ -107,7 +107,7 @@ I had a very valuable internship in data journalism at The Paper. The Paper is a
 * [ICA postconference(2023 media sociology):Resurgence of Party Media in China From the Perspective of Relational Trust Theory](/assets/ICA%20postconference_slides.pdf)
 * [MSC 2023:Exploitation-Exploration Model of Media Multitasking (EEMM)](/assets/Exploitation-Exploration%20Model%20of%20Media%20Multitasking%20(EEMM).pdf)
 * [ICA annual conference 2024: Using Agent-based Modeling to Explore the “Myth” of Media Multitasking](/assets/ABSTRACT_ICA2024.pdf)
-* [CIRC(Under consideration):Insulting CN](/assets/Insulting%20China%20in%20Indiscrimination?%20.pdf)
+* [CIRC(Under consideration):Insulting CN](/assets/Insulting_China_in_Indiscrimination.pdf)
 
 
 [Back to HomePage](./)
